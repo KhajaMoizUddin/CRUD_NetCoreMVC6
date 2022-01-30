@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "863b2590-5178-49df-931a-43bd0a7643fa": {
+      "ProjectGuid": "863b2590-5178-49df-931a-43bd0a7643fa",
+      "DisplayName": "MVC-CRUD",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
